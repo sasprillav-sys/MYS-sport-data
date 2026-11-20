@@ -275,6 +275,8 @@ h1, h2 { font-family: var(--font-display); letter-spacing: -.065em; }
 .closing-label { color: #526638; font-size: 8px; font-weight: 700; letter-spacing: .14em; }
 .closing h2 { margin: 12px 0 0; font-size: clamp(37px, 4.7vw, 59px); line-height: .99; }
 .closing h2 em { color: #30431e; }
+.button-whatsapp { background: #128c7e; color: #fff; }
+.button-whatsapp:hover { background: #075e54; }
 .button-light { min-width: 150px; background: var(--navy); color: #fff; }
 .button-light:hover { background: #27392e; }
 
